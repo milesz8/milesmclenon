@@ -1,16 +1,15 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Miles McLenon
+avatar: /static/images/avatar.jpg
+occupation: Full Stack Engineer
+company: Softek Illuminate, Inc.
+email: miles.mclenon@gmail.com
+linkedin: https://www.linkedin.com/in/miles-mclenon/
+github: https://github.com/milesz8
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Miles is a software engineer who enjoys building web applications and solving problems with people. He got introduced to coding from his father who was a software engineer in his early career.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He graduated Kansas State University with a degree in computer science and a minor in mathematics
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his freetime he like to be outdoors. Camping and hiking is a preferred vacatioin. Getting to scuba dive in the Great Barrier Reef is one of his most exciting adventures.
